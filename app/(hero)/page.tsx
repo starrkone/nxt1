@@ -9,6 +9,6 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <Mpg imgUrl='/8.jpg' altTxt="home" content="Welcome to Next.js. 欢迎！" />
+    <Mpg imgUrl='/8.jpg' altTxt="home" content="Welcome to Next.js. 欢迎！- 20250102" />
   )
 }

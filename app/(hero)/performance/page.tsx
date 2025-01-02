@@ -9,6 +9,6 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <Mpg imgUrl='/9.jpg' altTxt="performance" content="performance page ..." />
+    <Mpg imgUrl='/9.jpg' altTxt="performance" content="performance page ... from 2025/01/02" />
   )
 }
