@@ -7,7 +7,7 @@ export const metadata = {
   description: 'performance page description',
 }
 
-export default function page() {
+export default function Page() {
   return (
     <Mpg imgUrl='/9.jpg' altTxt="performance" content="performance page ..." />
   )

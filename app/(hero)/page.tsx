@@ -7,7 +7,7 @@ export const metadata = {
   description: 'home page description',
 }
 
-export default function page() {
+export default function Page() {
   return (
     <Mpg imgUrl='/8.jpg' altTxt="home" content="Welcome to Next.js. 欢迎！" />
   )

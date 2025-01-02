@@ -7,7 +7,7 @@ export const metadata = {
   description: 'Scale page description',
 }
 
-export default function page() {
+export default function Page() {
   return (
     <Mpg imgUrl='/10.jpg' altTxt="scale" content="scale page ..." />
   )

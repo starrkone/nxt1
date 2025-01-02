@@ -18,14 +18,10 @@ const linkdata = [
   }
 ];
 
-const showHeaderList = [
-"/","/performance","/reliability","/scale"
-]
 
-export default function header() {
+export default function Header() {
 
    const pathname = usePathname();
-   console.log(pathname);
 
   return (
     

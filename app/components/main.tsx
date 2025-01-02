@@ -7,7 +7,7 @@ interface Props {
    content: string;
 }
 
-export default function mainPage(props: Props) {
+export default function MainPage(props: Props) {
   return (
    <div className="bg-green-300 h-screen w-full relative ">
    <div className='absoulte inset-0 -z-10'>
